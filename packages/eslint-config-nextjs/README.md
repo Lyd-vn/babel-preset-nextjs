@@ -1,6 +1,4 @@
-# @Lyd/nextjs-config
-
-## eslint-config-nextjs
+# @Lyd/eslint-config-nextjs
 
 @Lyd eslint config utilizing Airbnb config, Flow, Prettier and Jest support.
 
