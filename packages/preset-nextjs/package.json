@@ -1,6 +1,6 @@
 {
     "name": "@lyd/babel-preset-nextjs",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "config babel for NextJs",
     "repository": "https://github.com/Lyd-vn/nextjs-config.git",
     "author": "vHades <anhvu.nd.0199@gmail.com>",
