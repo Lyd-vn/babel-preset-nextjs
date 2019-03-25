@@ -1,2 +1,2 @@
-# babel-preset-nextjs
-babel-preset-nextjs
+# @Lyd/nextjs-config
+

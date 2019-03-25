@@ -1,0 +1,15 @@
+{
+    "name": "@lyd/preset-nextjs",
+    "version": "1.0.0",
+    "description": "config babel for NextJs",
+    "repository": "https://github.com/Lyd-vn/nextjs-config.git",
+    "author": "vHades <anhvu.nd.0199@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "@babel/core": "^7.4.0",
+        "@babel/plugin-proposal-do-expressions": "^7.2.0",
+        "@babel/plugin-proposal-export-default-from": "^7.2.0",
+        "@babel/preset-flow": "^7.0.0",
+        "babel-plugin-flow-react-proptypes": "^25.0.0"
+    }
+}
