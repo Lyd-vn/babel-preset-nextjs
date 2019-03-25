@@ -12,5 +12,5 @@
         "@babel/preset-flow": "^7.0.0",
         "babel-plugin-flow-react-proptypes": "^25.0.0"
     },
-    "gitHead": "2b2159ec30e3f258063b721ad144f457fd214c99"
+    "gitHead": "22698c399fea52449205c611738be23be1b0264b"
 }
